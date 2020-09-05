@@ -36,3 +36,18 @@ nav:
         url: /texas_holdem_hand        
  
  
+   - title: Math Fundamentals
+    children:
+      - title: "-Basics"
+        url: /math_basics
+      - title: "-Pot Odds"
+        url: /pot_odds
+      - title: "-Probability"
+        url: /probability
+      - title: "-Expected Value"
+        url: /expected_value
+      - title: "-Equity"
+        url: /equity
+      - title: "-Hand Combinations"
+        url: /hand_combos
+        
