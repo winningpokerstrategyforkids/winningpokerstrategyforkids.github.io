@@ -10,7 +10,7 @@ main:
 nav:    
   - title: Intro
     children:
-      - title: "-Why Play Poker?"
+      - title: "-Why Play Poker"
         url: /why_poker
       - title: "-Wait, Isn't Poker Gambling?"
         url: /gambling
@@ -18,16 +18,10 @@ nav:
     children:
       - title: "-1-Card Poker"
         url: /1card_poker
-      - title: "-The Deck"
-        url: /deck
-      - title: "-The Rules"
-        url: /rules
-      - title: "-The Hands"
-        url: /hands
+      - title: "-Poker Rules and Hands"
+        url: /poker_rules_hands
       - title: "-Texas Hold'em"
-        url: /texas_holdem
-      - title: "-A Texas Hold'em Hand"
-        url: /texas_holdem_hand        
+        url: /texas_holdem    
   - title: Math Fundamentals
     children:
       - title: "-Basics"
