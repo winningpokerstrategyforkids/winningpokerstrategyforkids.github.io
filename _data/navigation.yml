@@ -38,22 +38,12 @@ nav:
         url: /hand_combos
   - title: Basic Strategy
     children:
-      - title: "-Which Hands to Play"
+      - title: "-ABC Play"
         url: /which_hands
-      - title: "-Playing Straightforward"
-        url: /playing_straightforward
-      - title: "-Table Position"
-        url: /table_position
-      - title: "-Bet Sizing"
+      - title: "-Betting and Bluffing"
         url: /bet_sizing
-      - title: "-Continuation Betting"
-        url: /continuation_betting
       - title: "-Valuing Hands"
         url: /valuing_hands
-      - title: "-Bluffing"
-        url: /bluffing
-      - title: "-Facing Bets and Raises"
-        url: /facing_bets_and_raises
       - title: "-Your Opponents"
         url: /your_opponents
       - title: "-Common Mistakes"
