@@ -34,9 +34,7 @@ nav:
         url: /texas_holdem
       - title: "-A Texas Hold'em Hand"
         url: /texas_holdem_hand        
- 
- 
-   - title: Math Fundamentals
+  - title: Math Fundamentals
     children:
       - title: "-Basics"
         url: /math_basics
