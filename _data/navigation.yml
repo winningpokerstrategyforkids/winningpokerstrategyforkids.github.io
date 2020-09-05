@@ -100,9 +100,3 @@ nav:
         url: /exercises_hand_decisions
       - title: "-Full Hands"
         url: /exercises_full_hands
-  - title: About
-    children:
-      - title: "-Written by Max Chiswick"
-        url: /about
-      - title: "-AI Poker Tutorial"
-        url: https://www.aipokertutorial.com
