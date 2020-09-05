@@ -68,3 +68,17 @@ nav:
         url: /your_opponents
       - title: "-Common Mistakes"
         url: /common_mistakes
+  - title: Advanced Topics
+    children:
+      - title: "-Balance"
+        url: /balance
+      - title: "-Polarizing"
+        url: /polarizing
+      - title: "-Board Types"
+        url: /board_types
+      - title: "-Playing Deceptively"
+        url: /playing_deceptively
+      - title: "-Card Removal"
+        url: /card_removal
+      - title: "-Cash Games vs. Tournaments"
+        url: /cash_tournaments
