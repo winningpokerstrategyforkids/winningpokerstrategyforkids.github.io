@@ -8,14 +8,10 @@ main:
   - title: "About"
     url: /about/
 nav:    
-  - title: Why Play Poker?
+  - title: Intro
     children:
-      - title: "-Math and Decision Making"
-        url: /math_decision_making
-      - title: "-People Skills"
-        url: /people
-      - title: "-Emotional Skills"
-        url: /emotional
+      - title: "-Why Play Poker?"
+        url: /why_poker
       - title: "-Wait, Isn't Poker Gambling?"
         url: /gambling
   - title: Poker Basics
@@ -82,14 +78,14 @@ nav:
         url: /card_removal
       - title: "-Cash Games vs. Tournaments"
         url: /cash_tournaments
-  - title: Improving Real Life Decision-Making
+  - title: Real Life Applications
     children:
-      - title: "-TBD1"
-        url: /decisions_tbd1
-      - title: "-TBD2"
-        url: /decisions_tbd2
-      - title: "-TBD3"
-        url: /decisions_tbd3
+      - title: "-Math and Decision Making"
+        url: /math_decision_making
+      - title: "-People Skills"
+        url: /people
+      - title: "-Emotional Skills"
+        url: /emotional
   - title: Exercises
     children:
       - title: "-Poker Basics"
