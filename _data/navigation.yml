@@ -46,8 +46,7 @@ nav:
         url: /equity
       - title: "-Hand Combinations"
         url: /hand_combos
-
-   - title: Basic Strategy
+  - title: Basic Strategy
     children:
       - title: "-Which Hands to Play"
         url: /which_hands
