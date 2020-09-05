@@ -26,42 +26,42 @@ nav:
     children:
       - title: "-Basics"
         url: /math_basics
-#       - title: "-Pot Odds"
-#         url: /pot_odds
-#       - title: "-Probability"
-#         url: /probability
-#       - title: "-Expected Value"
-#         url: /expected_value
-#       - title: "-Equity"
-#         url: /equity
-#       - title: "-Hand Combinations"
-#         url: /hand_combos
+      - title: "-Pot Odds"
+        url: /pot_odds
+      - title: "-Probability"
+        url: /probability
+      - title: "-Expected Value"
+        url: /expected_value
+      - title: "-Equity"
+        url: /equity
+      - title: "-Hand Combinations"
+        url: /hand_combos
   - title: Basic Strategy
     children:
       - title: "-ABC Play"
         url: /which_hands
-#       - title: "-Betting and Bluffing"
-#         url: /bet_sizing
-#       - title: "-Valuing Hands"
-#         url: /valuing_hands
-#       - title: "-Your Opponents"
-#         url: /your_opponents
-#       - title: "-Common Mistakes"
-#         url: /common_mistakes
+      - title: "-Betting and Bluffing"
+        url: /bet_sizing
+      - title: "-Valuing Hands"
+        url: /valuing_hands
+      - title: "-Your Opponents"
+        url: /your_opponents
+      - title: "-Common Mistakes"
+        url: /common_mistakes
   - title: Advanced Topics
     children:
       - title: "-Balance"
         url: /balance
-#       - title: "-Polarizing"
-#         url: /polarizing
-#       - title: "-Board Types"
-#         url: /board_types
-#       - title: "-Playing Deceptively"
-#         url: /playing_deceptively
-#       - title: "-Card Removal"
-#         url: /card_removal
-#       - title: "-Cash Games vs. Tournaments"
-#         url: /cash_tournaments
+      - title: "-Polarizing"
+        url: /polarizing
+      - title: "-Board Types"
+        url: /board_types
+      - title: "-Playing Deceptively"
+        url: /playing_deceptively
+      - title: "-Card Removal"
+        url: /card_removal
+      - title: "-Cash Games vs. Tournaments"
+        url: /cash_tournaments
   - title: Real Life Applications
     children:
       - title: "-Math and Decision Making"
