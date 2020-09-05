@@ -68,3 +68,41 @@ nav:
         url: /your_opponents
       - title: "-Common Mistakes"
         url: /common_mistakes
+   - title: Advanced Topics
+    children:
+      - title: "-Balance"
+        url: /balance
+      - title: "-Polarizing"
+        url: /polarizing
+      - title: "-Board Types"
+        url: /board_types
+      - title: "-Playing Deceptively"
+        url: /playing_deceptively
+      - title: "-Card Removal"
+        url: /card_removal
+      - title: "-Cash Games vs. Tournaments"
+        url: /cash_tournaments
+   - title: Improving Real Life Decision-Making
+    children:
+      - title: "-TBD1"
+        url: /decisions_tbd1
+      - title: "-TBD2"
+        url: /decisions_tbd2
+      - title: "-TBD3"
+        url: /decisions_tbd3
+   - title: Exercises
+    children:
+      - title: "-Poker Basics"
+        url: /exercises_basics
+      - title: "-Math"
+        url: /exercises_math
+      - title: "-Hand Decisions"
+        url: /exercises_hand_decisions
+      - title: "-Full Hands"
+        url: /exercises_full_hands
+  - title: About
+    children:
+      - title: "-Written by Max Chiswick"
+        url: /about
+      - title: "-AI Poker Tutorial"
+        url: https://www.aipokertutorial.com
