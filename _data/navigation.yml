@@ -19,3 +19,19 @@ nav:
       - title: "-Wait, Isn't Poker Gambling?"
         url: /gambling
    
+     
+  - title: Poker Basics
+    children:
+      - title: "-1-Card Poker"
+        url: /1card_poker
+      - title: "-The Deck"
+        url: /deck
+      - title: "-The Rules"
+        url: /rules
+      - title: "-The Hands"
+        url: /hands
+      - title: "-Texas Hold'em"
+        url: /texas_holdem
+      - title: "-A Texas Hold'em Hand"
+        url: /texas_holdem_hand        
+ 
